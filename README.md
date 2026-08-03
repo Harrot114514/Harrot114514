@@ -1,4 +1,4 @@
-<div align="center"><strong>简体中文</strong> | <a herf="https://github.com/Harrot114514/Harrot114514/blob/main/readme-en.md" 
+<div align="center"><strong>简体中文</strong> <a>|</a>a <a herf="https://github.com/Harrot114514/Harrot114514/blob/main/readme-en.md" 
  title="1">English</a></div>
 
 # <div align="center">![](https://github.com/Harrot114514/Harrot114514/blob/main/image/d9d01127a7b6dcca0a8c4b4ae20ef5f386713cda.jpg)<br>不会起名的萝卜君<div>
